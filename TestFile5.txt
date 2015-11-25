@@ -1,1 +1,3 @@
 TestFile5
+
+in this file should be enums
